@@ -1240,6 +1240,14 @@
   width:95px;
   word-wrap:break-word;
 }
+#u67_ann {
+  border-width:0px;
+  position:absolute;
+  left:765px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
 #u69_img {
   border-width:0px;
   position:absolute;
@@ -1430,6 +1438,7 @@
   left:2px;
   top:7px;
   width:95px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u85_img {
